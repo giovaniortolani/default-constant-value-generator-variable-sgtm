@@ -1,0 +1,5 @@
+homepage: 'https://www.linkedin.com/in/giovani-ortolani-barbosa/'
+documentation: 'https://github.com/giovaniortolani/default-constant-value-generator-variable-sgtm'
+versions:
+  - sha: 11266bea2a6293109124ee8b6cf854f862a75ced
+    changeNotes: Initial Version
