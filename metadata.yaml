@@ -1,5 +1,7 @@
 homepage: 'https://www.linkedin.com/in/giovani-ortolani-barbosa/'
 documentation: 'https://github.com/giovaniortolani/default-constant-value-generator-variable-sgtm'
 versions:
+  - sha: ddd804e9be3797063a3c75109d28d7ad37a5cb54
+    changeNotes: Added support for 1 and 0 as return values.
   - sha: 11266bea2a6293109124ee8b6cf854f862a75ced
-    changeNotes: Initial Version
+    changeNotes: Initial Version.
