@@ -12,6 +12,8 @@ The template allows you to select one of the following values:
 | `undefined`  | Represents an `undefined` value |
 | `true`       | Boolean `true` |
 | `false`      | Boolean `false` |
+| `1`          | Number `1` |
+| `0`          | Number `2` |
 | `""`         | An empty string |
 | `[]`         | An empty array |
 | `{}`         | An empty object |
